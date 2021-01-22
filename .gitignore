@@ -10,3 +10,5 @@ gen
 src/main/resources/
 target/generated-sources/
 target/generated-test-sources/
+target/classes/
+target/test-classes/
